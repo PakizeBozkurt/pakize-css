@@ -59,8 +59,6 @@ a:hover {
     position: relative;
     padding-top: 100px;
     
-    
-
 }
 
 .middle-container{
@@ -174,4 +172,46 @@ a:hover {
     color:rgb(138, 14, 107);
     font-size:1.75;
     padding: 20px 0;
+}
+
+@media only screen and (min-width: 300px) {
+  .top-cloud{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    height: 100px;
+    width: 150px;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: left;
+}
+}
+
+@media only screen and (max-width: 900px) {
+  .top-cloud{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    height: 100px;
+    width: 150px;
+}
 }
