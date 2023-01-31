@@ -31,3 +31,5 @@ You can use CSS Grid to create complex, responsive designs that adapt to differe
   grid-column: 2 / 3;
   grid-row: 2 / 3;
 }
+
+In this example, the container class defines the grid and sets the number of columns and rows, and the grid-gap property sets the space between grid cells. The other classes (item1, item2, etc.) define the placement of elements within the grid by specifying the starting and ending columns and rows for each item.
