@@ -66,3 +66,7 @@ footer {
   grid-row: 3 / 4;
 }
 
+In this example, the container class creates a grid with columns that have a minimum width of 300px and can grow to fill the available space. The header, nav, main, aside, and footer classes define the placement of elements within the grid and create a three-row, three-column layout with a header, navigation, main content, aside, and footer section.
+
+The layout adjusts automatically as the screen size changes, so that on larger screens, the layout is divided into three columns, and on smaller screens, it stacks vertically to fit the available space.
+
