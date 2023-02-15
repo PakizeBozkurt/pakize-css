@@ -1,5 +1,5 @@
-# pakize bozkurt
-html and css challenge
+# Pakize Bozkurt
+# HTML and CSS challenge
 
 CSS Grid is a two-dimensional layout system for the web that allows developers to create grid-based layouts using rows and columns. It allows you to arrange elements into rows and columns, and then control the size, position, and spacing of those elements.
 
